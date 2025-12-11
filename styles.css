@@ -1,0 +1,24 @@
+.app {
+  font-family: Arial, sans-serif;
+  padding: 40px;
+  text-align: center;
+}
+
+input {
+  padding: 8px;
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+button {
+  padding: 10px 18px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.limit-msg {
+  margin-top: 20px;
+  color: red;
+  font-weight: bold;
+}
